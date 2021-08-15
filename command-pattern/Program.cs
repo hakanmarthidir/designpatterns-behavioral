@@ -6,7 +6,22 @@ namespace command_pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            AlexaHome alexaHome = new AlexaHome();
+
+            var desklight = new DeskLight();
+            var spotify = new Spotify();
+
+            alexaHome.SetCommand(new SpotifyPlayCommand(spotify));
+            alexaHome.RunCommand();
+
+            alexaHome.SetCommand(new DeskLightOpenCommand(desklight));
+            alexaHome.RunCommand();
+
+            alexaHome.SetCommand(new GoodNightCommand(desklight,spotify));
+            alexaHome.RunCommand();
+
         }
     }
+
 }

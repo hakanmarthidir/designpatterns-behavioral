@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "chainofresponbility-pattern/1.0.0": {
+        "runtime": {
+          "chainofresponbility-pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chainofresponbility-pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

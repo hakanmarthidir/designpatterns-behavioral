@@ -1,0 +1,16 @@
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.exe
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.deps.json
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.runtimeconfig.json
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.runtimeconfig.dev.json
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\ref\memento-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.csproj.AssemblyReference.cache
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.AssemblyInfoInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.AssemblyInfo.cs
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.csproj.CoreCompileInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\ref\memento-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.genruntimeconfig.cache

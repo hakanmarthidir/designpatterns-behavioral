@@ -1,0 +1,16 @@
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\bin\Debug\net5.0\strategy-pattern.exe
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\bin\Debug\net5.0\strategy-pattern.deps.json
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\bin\Debug\net5.0\strategy-pattern.runtimeconfig.json
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\bin\Debug\net5.0\strategy-pattern.runtimeconfig.dev.json
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\bin\Debug\net5.0\strategy-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\bin\Debug\net5.0\ref\strategy-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\bin\Debug\net5.0\strategy-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.csproj.AssemblyReference.cache
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.AssemblyInfoInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.AssemblyInfo.cs
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.csproj.CoreCompileInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\ref\strategy-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\strategy-pattern\obj\Debug\net5.0\strategy-pattern.genruntimeconfig.cache

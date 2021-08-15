@@ -1,0 +1,16 @@
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\bin\Debug\net5.0\iterator-pattern.exe
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\bin\Debug\net5.0\iterator-pattern.deps.json
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\bin\Debug\net5.0\iterator-pattern.runtimeconfig.json
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\bin\Debug\net5.0\iterator-pattern.runtimeconfig.dev.json
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\bin\Debug\net5.0\iterator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\bin\Debug\net5.0\ref\iterator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\bin\Debug\net5.0\iterator-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.csproj.AssemblyReference.cache
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.AssemblyInfoInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.AssemblyInfo.cs
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.csproj.CoreCompileInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\ref\iterator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\iterator-pattern\obj\Debug\net5.0\iterator-pattern.genruntimeconfig.cache

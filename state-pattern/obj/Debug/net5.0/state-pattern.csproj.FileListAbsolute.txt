@@ -1,0 +1,16 @@
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\bin\Debug\net5.0\state-pattern.exe
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\bin\Debug\net5.0\state-pattern.deps.json
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\bin\Debug\net5.0\state-pattern.runtimeconfig.json
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\bin\Debug\net5.0\state-pattern.runtimeconfig.dev.json
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\bin\Debug\net5.0\state-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\bin\Debug\net5.0\ref\state-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\bin\Debug\net5.0\state-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.csproj.AssemblyReference.cache
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.AssemblyInfoInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.AssemblyInfo.cs
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.csproj.CoreCompileInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\ref\state-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\state-pattern\obj\Debug\net5.0\state-pattern.genruntimeconfig.cache

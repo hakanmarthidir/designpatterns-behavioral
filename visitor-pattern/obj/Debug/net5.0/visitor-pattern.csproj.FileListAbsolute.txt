@@ -1,0 +1,15 @@
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\bin\Debug\net5.0\visitor-pattern.exe
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\bin\Debug\net5.0\visitor-pattern.deps.json
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\bin\Debug\net5.0\visitor-pattern.runtimeconfig.json
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\bin\Debug\net5.0\visitor-pattern.runtimeconfig.dev.json
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\bin\Debug\net5.0\visitor-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\bin\Debug\net5.0\ref\visitor-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\bin\Debug\net5.0\visitor-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\visitor-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\visitor-pattern.AssemblyInfoInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\visitor-pattern.AssemblyInfo.cs
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\visitor-pattern.csproj.CoreCompileInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\visitor-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\ref\visitor-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\visitor-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\visitor-pattern\obj\Debug\net5.0\visitor-pattern.genruntimeconfig.cache

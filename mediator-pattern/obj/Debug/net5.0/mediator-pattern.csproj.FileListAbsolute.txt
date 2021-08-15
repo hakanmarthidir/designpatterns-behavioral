@@ -1,0 +1,16 @@
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.exe
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.deps.json
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.runtimeconfig.json
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.runtimeconfig.dev.json
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\ref\mediator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.csproj.AssemblyReference.cache
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.AssemblyInfoInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.AssemblyInfo.cs
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.csproj.CoreCompileInputs.cache
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\ref\mediator-pattern.dll
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.pdb
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.genruntimeconfig.cache

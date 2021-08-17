@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chainofresponbility-pattern", "chainofresponbility-pattern\chainofresponbility-pattern.csproj", "{A70839BA-9DAF-43BF-B2D6-7BE43CF61DE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chainofresponbility-pattern", "chainofresponbility-pattern\chainofresponbility-pattern.csproj", "{A70839BA-9DAF-43BF-B2D6-7BE43CF61DE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "command-pattern", "command-pattern\command-pattern.csproj", "{51861E16-2FFA-477A-93D9-6A1189128787}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "command-pattern", "command-pattern\command-pattern.csproj", "{51861E16-2FFA-477A-93D9-6A1189128787}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterator-pattern", "iterator-pattern\iterator-pattern.csproj", "{374E3134-54B6-419A-A4CD-F21D4E791244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iterator-pattern", "iterator-pattern\iterator-pattern.csproj", "{374E3134-54B6-419A-A4CD-F21D4E791244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediator-pattern", "mediator-pattern\mediator-pattern.csproj", "{114E966C-5287-417D-8B3A-5A9A5EB72D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mediator-pattern", "mediator-pattern\mediator-pattern.csproj", "{114E966C-5287-417D-8B3A-5A9A5EB72D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memento-pattern", "memento-pattern\memento-pattern.csproj", "{2D47289E-D1CF-4432-BE91-2909D0C4DB3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "memento-pattern", "memento-pattern\memento-pattern.csproj", "{2D47289E-D1CF-4432-BE91-2909D0C4DB3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "observer-pattern", "observer-pattern\observer-pattern.csproj", "{AAFCD5D7-5C4B-4B14-9115-9F3931CA7173}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "observer-pattern", "observer-pattern\observer-pattern.csproj", "{AAFCD5D7-5C4B-4B14-9115-9F3931CA7173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "state-pattern", "state-pattern\state-pattern.csproj", "{F5801E65-8AE7-404C-A8F8-3991129B705E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "state-pattern", "state-pattern\state-pattern.csproj", "{F5801E65-8AE7-404C-A8F8-3991129B705E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strategy-pattern", "strategy-pattern\strategy-pattern.csproj", "{B95CE3DA-9BCC-4E02-8D02-B19F954BBA8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "strategy-pattern", "strategy-pattern\strategy-pattern.csproj", "{B95CE3DA-9BCC-4E02-8D02-B19F954BBA8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visitor-pattern", "visitor-pattern\visitor-pattern.csproj", "{6C7AF0BA-CFAE-49E5-82DB-E749342DEA57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "visitor-pattern", "visitor-pattern\visitor-pattern.csproj", "{6C7AF0BA-CFAE-49E5-82DB-E749342DEA57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "templatemethod-pattern", "templatemethod-pattern\templatemethod-pattern.csproj", "{FA95E4B2-90C1-45F0-8C0F-71AE98AB4AB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "templatemethod-pattern", "templatemethod-pattern\templatemethod-pattern.csproj", "{FA95E4B2-90C1-45F0-8C0F-71AE98AB4AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interpreter-pattern", "interpreter-pattern\interpreter-pattern.csproj", "{C0C05514-2141-460C-8774-AC27E4EDF542}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{FA95E4B2-90C1-45F0-8C0F-71AE98AB4AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA95E4B2-90C1-45F0-8C0F-71AE98AB4AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA95E4B2-90C1-45F0-8C0F-71AE98AB4AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C05514-2141-460C-8774-AC27E4EDF542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C05514-2141-460C-8774-AC27E4EDF542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C05514-2141-460C-8774-AC27E4EDF542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C05514-2141-460C-8774-AC27E4EDF542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

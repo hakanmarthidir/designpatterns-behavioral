@@ -5,7 +5,6 @@ D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\bin\Debug\net5.0\ob
 D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\bin\Debug\net5.0\observer-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\bin\Debug\net5.0\ref\observer-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\bin\Debug\net5.0\observer-pattern.pdb
-D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\obj\Debug\net5.0\observer-pattern.csproj.AssemblyReference.cache
 D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\obj\Debug\net5.0\observer-pattern.GeneratedMSBuildEditorConfig.editorconfig
 D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\obj\Debug\net5.0\observer-pattern.AssemblyInfoInputs.cache
 D:\Codes\my-repos\designpatterns-behavioral\observer-pattern\obj\Debug\net5.0\observer-pattern.AssemblyInfo.cs

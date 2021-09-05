@@ -5,7 +5,6 @@ D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\bin\Debu
 D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\bin\Debug\net5.0\chainofresponbility-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\bin\Debug\net5.0\ref\chainofresponbility-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\bin\Debug\net5.0\chainofresponbility-pattern.pdb
-D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\obj\Debug\net5.0\chainofresponbility-pattern.csproj.AssemblyReference.cache
 D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\obj\Debug\net5.0\chainofresponbility-pattern.GeneratedMSBuildEditorConfig.editorconfig
 D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\obj\Debug\net5.0\chainofresponbility-pattern.AssemblyInfoInputs.cache
 D:\Codes\my-repos\designpatterns-behavioral\chainofresponbility-pattern\obj\Debug\net5.0\chainofresponbility-pattern.AssemblyInfo.cs

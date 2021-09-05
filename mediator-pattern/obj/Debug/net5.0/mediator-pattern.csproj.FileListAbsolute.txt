@@ -5,7 +5,6 @@ D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\me
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\ref\mediator-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\bin\Debug\net5.0\mediator-pattern.pdb
-D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.csproj.AssemblyReference.cache
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.GeneratedMSBuildEditorConfig.editorconfig
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.AssemblyInfoInputs.cache
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.AssemblyInfo.cs

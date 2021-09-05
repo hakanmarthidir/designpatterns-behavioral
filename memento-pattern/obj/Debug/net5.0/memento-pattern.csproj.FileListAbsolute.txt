@@ -5,7 +5,6 @@ D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\mem
 D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\ref\memento-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\bin\Debug\net5.0\memento-pattern.pdb
-D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.csproj.AssemblyReference.cache
 D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.GeneratedMSBuildEditorConfig.editorconfig
 D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.AssemblyInfoInputs.cache
 D:\Codes\my-repos\designpatterns-behavioral\memento-pattern\obj\Debug\net5.0\memento-pattern.AssemblyInfo.cs

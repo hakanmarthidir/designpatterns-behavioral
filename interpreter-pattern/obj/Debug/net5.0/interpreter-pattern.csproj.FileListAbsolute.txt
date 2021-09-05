@@ -5,7 +5,6 @@ D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\bin\Debug\net5.0
 D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\bin\Debug\net5.0\interpreter-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\bin\Debug\net5.0\ref\interpreter-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\bin\Debug\net5.0\interpreter-pattern.pdb
-D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\obj\Debug\net5.0\interpreter-pattern.csproj.AssemblyReference.cache
 D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\obj\Debug\net5.0\interpreter-pattern.GeneratedMSBuildEditorConfig.editorconfig
 D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\obj\Debug\net5.0\interpreter-pattern.AssemblyInfoInputs.cache
 D:\Codes\my-repos\designpatterns-behavioral\interpreter-pattern\obj\Debug\net5.0\interpreter-pattern.AssemblyInfo.cs

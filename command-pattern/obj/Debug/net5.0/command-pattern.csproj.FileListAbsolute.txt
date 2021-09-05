@@ -5,7 +5,6 @@ D:\Codes\my-repos\designpatterns-behavioral\command-pattern\bin\Debug\net5.0\com
 D:\Codes\my-repos\designpatterns-behavioral\command-pattern\bin\Debug\net5.0\command-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\command-pattern\bin\Debug\net5.0\ref\command-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\command-pattern\bin\Debug\net5.0\command-pattern.pdb
-D:\Codes\my-repos\designpatterns-behavioral\command-pattern\obj\Debug\net5.0\command-pattern.csproj.AssemblyReference.cache
 D:\Codes\my-repos\designpatterns-behavioral\command-pattern\obj\Debug\net5.0\command-pattern.GeneratedMSBuildEditorConfig.editorconfig
 D:\Codes\my-repos\designpatterns-behavioral\command-pattern\obj\Debug\net5.0\command-pattern.AssemblyInfoInputs.cache
 D:\Codes\my-repos\designpatterns-behavioral\command-pattern\obj\Debug\net5.0\command-pattern.AssemblyInfo.cs

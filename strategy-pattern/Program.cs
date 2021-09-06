@@ -6,7 +6,12 @@ namespace strategy_pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            IConverter converter = new DxfConverter();
+
+            Transformer transformer = new Transformer(converter);
+
+            transformer.Transform("my file path");
         }
     }
 }

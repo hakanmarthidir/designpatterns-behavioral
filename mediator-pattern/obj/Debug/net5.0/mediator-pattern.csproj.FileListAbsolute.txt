@@ -13,3 +13,4 @@ D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\me
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\ref\mediator-pattern.dll
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.pdb
 D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.genruntimeconfig.cache
+D:\Codes\my-repos\designpatterns-behavioral\mediator-pattern\obj\Debug\net5.0\mediator-pattern.csproj.AssemblyReference.cache

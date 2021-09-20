@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMh2q2nE8/RHY3DTd2JiF1b2l3oTfOCkkN5Ea9gphA9oj3oN9fT/dp8nxyuF1N2mEQvJuNAp0hNDMnlM1WNYpw==",
+  "dgSpecHash": "O4PEX3NRTh+twAvqKQd2xQazIpQ03R7feJxCwsedfkXa3hX5K/pU95GGKKv+8GHHBCdzhtGcBWCJfJ7Fpm9FeQ==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\my-repos\\designpatterns-behavioral\\command-pattern\\command-pattern.csproj",
+  "projectFilePath": "/Volumes/mart/my-codes/designpatterns-behavioral/command-pattern/command-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

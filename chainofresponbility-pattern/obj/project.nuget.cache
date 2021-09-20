@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GLyQ4Nt6AfCirUOmog6VaK2ZDKCbbTxE2RqDt+3tUGeIzMG+hPO3DjUGjFWgWuZC/TD61Towxdp2yZ6IA2ROyA==",
+  "dgSpecHash": "MMNL6zNKk0tzuglTqfFs/WAkfa/qjXLNkl01CljWk7IG+sn3IpQ5r/9lMLJYEaNo49DSGgCIT1JQe+nn/gRX0Q==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\my-repos\\designpatterns-behavioral\\chainofresponbility-pattern\\chainofresponbility-pattern.csproj",
+  "projectFilePath": "/Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/chainofresponbility-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

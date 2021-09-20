@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AaMWsz5xrhjG0MCSpqCF2GKPkFA7hUcsLNRTR4Nhjazhhdyz6StHgJYoBBS7FFZZNflgO3SYVy35ISzGsrl9FA==",
+  "dgSpecHash": "FPbzVIjRmxwKDNpGCz2302ZgCZbOJymT63x5Bi8xBiHJ+Wa8ST1EqZSHdJ0GwsQDUeLsyT4LtrTvqmsDEMdVwA==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\my-repos\\designpatterns-behavioral\\state-pattern\\state-pattern.csproj",
+  "projectFilePath": "/Volumes/mart/my-codes/designpatterns-behavioral/state-pattern/state-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KbNfsh/TnAtp6SKFegw32+K5/iXe063Xpqx7z+XK0G/PHgHkhMMT4zKyno05uVFpfQJk8vpc0VCXTNx51mWMrQ==",
+  "dgSpecHash": "HvUGelxZesaz1FEujB4tqBpPHB0NCB4LPHD3ziew/fnySizEzfAEkkfUa3Pykzrx9V/IQXv+n72jfIiVlVXfjQ==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\my-repos\\designpatterns-behavioral\\memento-pattern\\memento-pattern.csproj",
+  "projectFilePath": "/Volumes/mart/my-codes/designpatterns-behavioral/memento-pattern/memento-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

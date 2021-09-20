@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJ04PFZCOo25Fv6TluR3cS/hXTQvzSVftKsbvtZh+7ij8EdCGJrZbIvX+My6+GwkIYApsA2QJ0ub+tn1df/dKQ==",
+  "dgSpecHash": "3oGPrrC5gYVCZ1/pBTBA8yRyZPS84lptuCi1Dm0+3cs7unWT4EIzkUAGFMpT9cE4REYS6AkGZQhtOf8S5XOhJQ==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\my-repos\\designpatterns-behavioral\\observer-pattern\\observer-pattern.csproj",
+  "projectFilePath": "/Volumes/mart/my-codes/designpatterns-behavioral/observer-pattern/observer-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

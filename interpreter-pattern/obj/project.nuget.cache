@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XXfzIRocdbWX06e7w74SlYqXdawA2cF0x99/a8pgQRJtQ/boCXi/r8N2pEN6bWBA0i+rY6VqUb4FmRSPm2TW4A==",
+  "dgSpecHash": "acGRhgFVXX4LJ1QUelU8YaZK9B+M1W8m8D9wjgUp8+R2TS6MDAp8wAfsDsPkhYoiZYZsMf9wWreV+J+h7xP9gQ==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\my-repos\\designpatterns-behavioral\\interpreter-pattern\\interpreter-pattern.csproj",
+  "projectFilePath": "/Volumes/mart/my-codes/designpatterns-behavioral/interpreter-pattern/interpreter-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

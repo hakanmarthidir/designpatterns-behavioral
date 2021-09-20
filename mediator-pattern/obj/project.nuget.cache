@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbpoezMV4gHBUWIgMUjcHlqG/eZ6EeOY2bF9dCu/nfg0fSPNHiKj9rXVWLwd9WIUk9e658dgENxv6VtEGDnnQw==",
+  "dgSpecHash": "jfvL/+ru9auH0vwxBNWlI4OrgcoPXzFQr+gVUzxrv2zSzgeQxgVIAgxuPs5QtnnaDWMxJxKK6zzhpuPfxpx82Q==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\my-repos\\designpatterns-behavioral\\mediator-pattern\\mediator-pattern.csproj",
+  "projectFilePath": "/Volumes/mart/my-codes/designpatterns-behavioral/mediator-pattern/mediator-pattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

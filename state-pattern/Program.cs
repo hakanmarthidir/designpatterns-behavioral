@@ -6,7 +6,10 @@ namespace state_pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ICargo myCargo = new Cargo();
+
+            myCargo.ChangeState(new InTransitState());
+            myCargo.ChangeState(new DeliveredState());
         }
     }
 }

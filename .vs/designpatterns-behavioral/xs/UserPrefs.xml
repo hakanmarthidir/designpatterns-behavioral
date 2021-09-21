@@ -1,13 +1,18 @@
-﻿<Properties StartupConfiguration="{AAFCD5D7-5C4B-4B14-9115-9F3931CA7173}|Default">
+﻿<Properties StartupConfiguration="{F5801E65-8AE7-404C-A8F8-3991129B705E}|Default">
+  <MonoDevelop.Ide.ItemProperties.state-pattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.chainofresponbility-pattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.observer-pattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="state-pattern/Program.cs">
+    <Files>
+      <File FileName="state-pattern/StateSample.cs" Line="13" Column="47" />
+      <File FileName="state-pattern/Program.cs" Line="9" Column="26" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="designpatterns-behavioral" expanded="True">
-            <Node name="observer-pattern" expanded="True">
-              <Node name="ObserverSample.cs" selected="True" />
+            <Node name="state-pattern" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

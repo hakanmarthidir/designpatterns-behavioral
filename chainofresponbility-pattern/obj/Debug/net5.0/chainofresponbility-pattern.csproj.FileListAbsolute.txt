@@ -19,7 +19,6 @@ D:/Codes/my-repos/designpatterns-behavioral/chainofresponbility-pattern/obj/Debu
 /Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/bin/Debug/net5.0/chainofresponbility-pattern.dll
 /Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/bin/Debug/net5.0/ref/chainofresponbility-pattern.dll
 /Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/bin/Debug/net5.0/chainofresponbility-pattern.pdb
-/Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/obj/Debug/net5.0/chainofresponbility-pattern.csprojAssemblyReference.cache
 /Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/obj/Debug/net5.0/chainofresponbility-pattern.GeneratedMSBuildEditorConfig.editorconfig
 /Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/obj/Debug/net5.0/chainofresponbility-pattern.AssemblyInfoInputs.cache
 /Volumes/mart/my-codes/designpatterns-behavioral/chainofresponbility-pattern/obj/Debug/net5.0/chainofresponbility-pattern.AssemblyInfo.cs

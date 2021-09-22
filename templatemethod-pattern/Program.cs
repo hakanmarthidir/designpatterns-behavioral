@@ -6,7 +6,12 @@ namespace templatemethod_pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BasketballPlayer basketballPlayer = new BasketballPlayer();
+            basketballPlayer.PrepareToMatch();
+
+            TennisPlayer tennisPlayer = new TennisPlayer();
+            tennisPlayer.PrepareToMatch();
+
         }
     }
 }
